@@ -1,1 +1,1 @@
-# IML-Assignment
+# Digits classification
